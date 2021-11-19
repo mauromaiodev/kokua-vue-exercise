@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
+  <div class="home3">
     <Contador></Contador>
-    <p>To na Home</p>
+    <p>To na Home3</p>
   </div>
 </template>
 
